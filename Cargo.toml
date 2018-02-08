@@ -1,0 +1,8 @@
+[package]
+name = "hola-web"
+version = "0.1.0"
+authors = ["Enzo Zuccolotto <ezuccolo@thoughtworks.com>"]
+
+[dependencies]
+rocket = "0.3.6"
+rocket_codegen = "0.3.6"
